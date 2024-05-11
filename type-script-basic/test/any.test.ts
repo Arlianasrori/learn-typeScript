@@ -4,7 +4,7 @@ describe("any",() => {
             nama : "suzuki",
             speed : 300
         }
-
+        
         mobil.speed = 200
         mobil.power = 400
 

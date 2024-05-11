@@ -8,3 +8,8 @@ export interface Manager extends Employe {
     age : number,
     sayHello(name : string) : string
 }
+export interface P extends Employe {
+    age : number,
+    sayHello(name : string) : string
+}
+
